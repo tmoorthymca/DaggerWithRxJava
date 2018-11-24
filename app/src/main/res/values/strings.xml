@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TelstraTest</string>
+    <string name="data_not_found">Data Not Found</string>
+    <string name="loading">Loading…</string>
+    <string name="content_image_from_server">content image from server</string>
+    <string name="navigation_image">navigation image</string>
+    <string name="network_error_msg">Network unavailable. Please try again later.</string>
+</resources>
